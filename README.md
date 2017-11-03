@@ -1,2 +1,2 @@
-# bayesicml.github.io
+# bayesicML.github.io
 Machine Learning made easy... 
